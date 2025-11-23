@@ -5,3 +5,5 @@
 - Paso 4
 - Paso 5
 - Paso 6
+- Paso 7
+- Paso 8
